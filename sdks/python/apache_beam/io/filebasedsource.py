@@ -37,6 +37,8 @@ from apache_beam.io import iobase
 from apache_beam.io import range_trackers
 from apache_beam.transforms.display import DisplayDataItem
 
+import range_trackers
+
 MAX_NUM_THREADS_FOR_SIZE_ESTIMATION = 25
 
 

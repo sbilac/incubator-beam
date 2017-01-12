@@ -15,6 +15,7 @@
 # limitations under the License.
 #
 
+
 import bz2
 import cStringIO
 import gzip
@@ -24,6 +25,7 @@ import random
 import os
 import tempfile
 import unittest
+import zlib
 
 import hamcrest as hc
 
